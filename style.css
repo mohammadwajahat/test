@@ -31,8 +31,12 @@ cursor: pointer;
   justify-content: center;
   align-items: center;
   gap: 10px;
+
 }
 .menu li:hover {
     color: lightcoral;
+    font-size: 24px;
+    background-color: lightgreen;
+    text-transform: uppercase;
 
 }
